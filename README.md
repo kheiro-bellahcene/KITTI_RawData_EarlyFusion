@@ -1,2 +1,4 @@
-# KITTI_RawData_EarlyFusion
-Early fusion of raw KITTI dataset LiDAR point clouds and camera images for enhanced perception. This repository includes data preprocessing, conversion of LiDAR binary files to point cloud format, visualization, and the initial pipeline for sensor fusion.
+ ## Lidar_Raw_Data_Visualisation
+
+Visualization of raw LiDAR data from the KITTI dataset.  
+Includes preprocessing and converting LiDAR binary files into point cloud format for visualization purposes.
